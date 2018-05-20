@@ -1,4 +1,8 @@
-{
-  "token": "insert-bot-token-here",
+const Discord = require("discord.js");
+const client = new Discord.Client();
+const config = require("./config.json");
+
+{  
+  "token": "NDQ3NTczMzExNDIxOTM5NzMy.DeJjqQ.mi7Zotp0fGgscC7cgLLAeYNbEpY",
   "prefix": "j!"
 }

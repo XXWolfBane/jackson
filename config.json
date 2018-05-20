@@ -1,7 +1,4 @@
 {
-    "token": "NDQ3NTczMzExNDIxOTM5NzMy.DeJjqQ.mi7Zotp0fGgscC7cgLLAeYNbEpY",
-    "paths": {
-        "commands": "./commands",
-        "events": "./events"
-    }
+  "token": "insert-bot-token-here",
+  "prefix": "j!"
 }
